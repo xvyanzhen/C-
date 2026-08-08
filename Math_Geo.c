@@ -5,8 +5,6 @@
 #include <math.h>
 #include <stdbool.h>
 #include <tgmath.h>
-#include <assert.h>
-#include <time.h>
 
 typedef struct
 {
